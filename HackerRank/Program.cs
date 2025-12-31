@@ -14,7 +14,7 @@ class Result
      *  4. INTEGER v2
      */
 
-    #region 1st Solution
+    #region 1st Solution (For checking)
     
     // public static string Kangaroo(int x1, int v1, int x2, int v2)
     // {
